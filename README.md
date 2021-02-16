@@ -26,9 +26,6 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 
 **Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
 
-**Links:**
-*  [LinkedIn](https://www.linkedin.com/in/claudio-santos-5824b824/)<p>
-
 
 ## Projetos:
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
@@ -61,49 +58,4 @@ As informações são retiradas das seguintes páginas e aplicativos:<p>
 * Levantamento de Requisitos para substituir a ferramanta que gerenciava o processo de conteúdo da TV Brasil.<br>
 * Treinamento da ferramenta Excel para funcionários da empresa.<br>
 * Apoio aos usuários da ferramenta ERP (MXM Sistemas).<p>
-
-
-## Formação Acadêmica:
-* **Escola Politécnica UFRJ:** MBA em Garantia de Qualidade de Software – (2013).<br>
-* **UFF:** MBA em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica – (2011).<br>
-* **Universidade Estácio de Sá:** Tecnólogo em Processamento de Dados - (1996). <p>
-
-
-## Curso de Extensão:
-* **UFRJ/NCE - Núcleo Computação Eletrônica:** Formação de Programadores – (2003).<br>
-
-## Cursos Complementares:
-* **SQLBI:** Introdução DAX - OnLine (2020). <br>
-* **UDACITY:** Fundamentos de Análise de Dados (2019). <br>
-* **DATAB:** Power BI – Módulos I e II (2018).<br>
-* **DATAB:** Excel – Básico ao Avançado (2019). <br>
-* **DATAB:** VBA – Básico ao Avançado (2020). <br>
-* **Cursos Expert Digital e Udemy:** Google Analytics e Google Data Studio (2019). <br>
-* **ITeste:** Formação de Analista de Testes (2014). <br>
-* **PUC-Rio:** Métodos Ágeis de Gerência em Desenvolvimento de Software (2009). <br>
-* **PUC-Rio:** Métodos de Revisão & Teste em Projetos de Software (2004). <br>
-* **PUC-Rio:** Análise Orientada a Objetos com UML (2004).<br>
-* **PUC-Rio:** Levantamento de Requisitos de Software - Metodologia JAD (2004).<br>
-* **TI Master/Infnet:** Querying Microsoft SQL Server 2000 with Transact-SQL (2004).<br>
-* **Allen Informática:** Visual Basic 6: (Fundamentals e Development) (2004).<p>
-
-
-## Cursos em andamento:
-* **Sigmoidal (https://sigmoidal.ai/)** <br>
-	* Python do Zero para Data Science.<br>
-	* Data Science na Prática. <br>
-	**Ambos cursos são desenvolvidos na ferramenta Google Colab.**<br>
-* **ByLearn (https://www.bylearn.com.br/)** <br>
-	* Python para Data Science. Exemplos trabalhados na ferramenta Jupyter Notebook. <br>
-	
-
-## Eventos:
-* **DATAB - Workshop A Profissão da Década:** fevereiro 2021 - OnLine. <br>
-* **MVPConf 2020:** dezembro 2020 – OnLine <Br>
-* **DATAB - 5 passos simples para criar cálculos complexos no Power BI :** julho 2020 – OnLine. <br>
-* **DATAB - Dashboards, Como Evoluir do Excel para o Power BI :** março 2020 – OnLine. <br>
-* **MVPConf 2019 :** abril 2019 – São Paulo - SP. <br>
-* **V Seminário Big Data Brasil  :** novembro 2018 – Rio de Janeiro - RJ. <br>
-* **Scrum Gathering Rio 2014   :** setembro 2014 – Rio de Janeiro – RJ. <br>
-* **2ª Conferência Latino-Americana sobre Metodologia Ágeis:** 8 e 9 de outubro 2009 em Florianópolis – SC.
 
