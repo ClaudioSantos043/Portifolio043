@@ -1,61 +1,52 @@
 
 <p align="center">
-<img src="banner.png" >
+<img src="banner05.png">
 </p>
 
-# Cláudio Luís Da Silva Santos
-Atualmente, trabalho para empresa ACERP, nos últimos 17 anos. <br>
-Por esta empresa, desenvolvi trabalhos de desenvolvimento e análise de sistemas, testes de sistemas e aplicativos e nos últimos 4 anos trabalho com análise de dados de nossas páginas na web e aplicativos.<p>
-As informações são extraídas do Google Analytics e de fornecedores que encaminham dados através de planilha excel ou arquivo .Doc. Essas informações são trabalhadas na ferramenta Excel e apresentadas em Power Point.<p>
-Com aumento da demanda e com mais conhecimento, começamos a trabalhar com Power BI e linguagem DAX e Google Data Studio. Essas ferramentas são conectadas ao Google Analytics e ao Excel.<p>
+## Formação Acadêmica:
+* **MBA** em  Garantia de Qualidade de Software pela Escola Politécnica UFRJ: (2013).					<br>
+* **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).		<br>
+* **Extensão** em Formação de Programadores pela UFRJ/NCE - Núcleo Computação Eletrônica: (2003).		<br>
+* **Graduação** em Tecnólogo em Processamento de Dados pela UNESA (Universidade Estácio de Sá): (1996). <br>
+* **Técnico** em Eletrônica pela Escola Técnica 1º de Maio: (1988).
+<p>
 
-As informações são retiradas das seguintes páginas e aplicativos:<p>
+## Qualificação Profissional
+Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI, VBA). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
+Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
+<p>
 
-**Páginas Web** <p>
-* https://tvines.org.br <br>
-* https://tvescola.org.br <br>
-* http://hotsite.tvescola.org.br/conexaoescolas/ <br>
-* http://hotsite.tvescola.org.br/percursos <br>
-* http://hotsite.tvescola.org.br/seguimosconectados/<p>
+## Experiência Profissional
+**ACERP (ROQUETTE PINTO). Período:** Fevereiro/2004 | Atual. **Cargo:** Analista de Desenvolvimento.<br>
+Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.  Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
+<p>
 
-**Aplicativos** <p>
+**Destaques | Resultados:**
+* Participação no projeto de concepção e implantação do sistema de gestão integrada para gerenciamento do conteúdo da TV Brasil;
+* Condução de treinamentos e orientações de usuários para alinhar rotinas e garantir o correto uso das aplicações e das funcionalidades do sistema.
+<p>
 
-* TV INES
-* TV INES - Primeira Mão
-* TV Escola <p>
-
-**Experiência em:** Google Data Studio, MS Power BI, DAX e Excel.<p>
+Desde 2016 trabalho efetivamente com análise de dados. <br>
+As informações são extraídas do Google Analytics, relacionados aos endereços descritos abaixo e outros dados são encaminhados por fornecedores externos.
+<p>
 
 
-## Projetos:
+### Projetos desenvolvidos nos cursos.<p>
+
  Atualmente estou matriculado e cursando Python e Data Science na Prática (https://sigmoidal.ai/). <br>
- * Exemplo de projeto realizado. <br>
- [Projeto Airbnb](https://bit.ly/3qs4osv)  <br>
+ * **Exemplos de projetos realizados no curso**.<br>
+   * [Projeto 01 Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <p>
+ * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
+   
+   
 
 
-**ACERP** - Exemplos de trabalhos desenvolvidos em análise de dados.<p>
-* **Em Power BI**<br>
-	* TV INES <br>
-	* TV INES - Primeira Mão <br>
-	* TV Escola <br>
-	* Percursos Educativos <p>
-
-	* [Exemplo Power BI](https://bit.ly/2Nau0Mi)<p>
-
-* **Em Power Point / PDF**<br>
-	* [Exemplo Power Point/PDF](https://bit.ly/2ZrYjAp)<p>
-
-* **Google DataStudio**<br>
-	* [TV Escola - Percursos Educativos](https://datastudio.google.com/u/0/reporting/4620b903-c6d6-4812-8cc0-75b4b356c773/page/Ly6EB)<br>
-	* [TV Escola - Conexão Escolas](https://datastudio.google.com/u/0/reporting/afaefa9a-8b34-4489-939a-f2814647737e/page/fPZ3)<br>
-	* [TV Escola - Seguimos Conectados](https://datastudio.google.com/u/0/reporting/5586e817-19c0-446d-87f6-ba5a715fc36f/page/xIxLB)<p>
 
 
-## Trabalhos desenvolvidos ao longo dos 17 anos de empresa:
-* Desenvolvimento de Sistema de Custos.<br>
-* Desenvolvimento de Cadastro de Filmes.<br>
-* Desenvolvimento de Acompanhamento de Processos.<br>
-* Levantamento de Requisitos para substituir a ferramanta que gerenciava o processo de conteúdo da TV Brasil.<br>
-* Treinamento da ferramenta Excel para funcionários da empresa.<br>
-* Apoio aos usuários da ferramenta ERP (MXM Sistemas).<p>
+
+	
+
+
+
+
 
