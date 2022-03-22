@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="banner05.png">
+<img src="banner06.png">
 </p>
 
 
@@ -22,9 +22,37 @@
 	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
 	* [TV INES](https://bit.ly/3jVJekK)<p>
 
-* **Google DataStudio.**
-	* Projetos informados acima, também foram desenvolvidos nesta ferramenta. É necessário endereço de email particular para acesso. <p>
 
+* **Curso Sigmoidal (https://sigmoidal.ai/).**
+
+ Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
+ * **Exemplos de projetos realizados**.<br>
+   * [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <br>
+   * [Projeto 02 - Analisando os Dados do Covid-19](https://bit.ly/3ndUdZX) <p>
+ * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
+   
+   As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
+   Arquivo Possui 452.730 linhas e 12 colunas.<br>
+   * [Exemplo 01](https://bit.ly/3aX7wH6)<br>
+
+   As informações são de um cadastro de séries e programas e foram trabalhadas em um arquivo Excel.<br>
+   Arquivo Possui 224.281 linhas e 37 colunas.<br>
+   * [Exemplo 02]( https://bit.ly/3tgedKW)<br>
+
+* **FLAI (https://www.flai.com.br/dominando-data-science/).**
+Atualmente estou matriculado e cursando Data Science.<br>
+* **Exemplos de projetos realizados**.<br>
+   * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/3mgj0vP) <p>
+
+* **Arruda Consulting**
+	* Pentaho Data Integration (2022).											<br>
+		* [Exemplo desenvolvido](https://bit.ly/3A3puDd)						<br>
+			Conhecimentos de como tratar dados de diversas fontes de dados, entre elas:
+		* Conexão com diversas fontes de dados para serem tratadas (.TXT, .CSV, MS Excel, Banco de Dados).
+		* Concatenação de 2 ou mais colunas.
+		* Selecionar número ou textos de um campo.
+		* Cálculos.
+		* Outros tratamentos de dados.
 
 * **Projetos Pessoais.**
 	* [Campeonato Brasileiro entre 2003 e 2021](https://bit.ly/3AfszQO)<br>
