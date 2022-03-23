@@ -103,7 +103,7 @@ As informações são extraídas do Google Analytics, relacionados aos endereço
    * [Projeto 02 - Analisando os Dados do Covid-19](https://bit.ly/3ndUdZX) <p>
  * Nos links abaixo, os arquivos foram criados com a ferramenta Pandas Profiling.<br>
    
-   As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
+   **As informações são de um cadastro e foram trabalhadas em um arquivo Excel**.<br>
    Arquivo Possui 452.730 linhas e 12 colunas.<br>
    * [Exemplo 01](https://bit.ly/3aX7wH6)<br>
 
