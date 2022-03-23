@@ -206,8 +206,8 @@ Atualmente estou matriculado e cursando Data Science.<br>
 ### Clube do Livro - Estatística:
 Clube do livro foi elaborado pela professora Fernanda Maciel (https://home.proffernandamaciel.com.br/). <br>
 Neste clube, nos reunimos uma vez por mês para discurtimos sobre o livro do mês, são eles:
-<p>
-* Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados. (Mar/2022).																  <br>
+
+* Data Science para Negócios: O que Você Precisa Saber Sobre Mineração de Dados e Pensamento Analítico. (Mar/2022).																  <br>
 * Storytelling com Dados: Um guia sobre visualizações de dados. (Fev/2022).			<br>
 * Freakonomics: O lado oculto e inesperado de tudo que nos afeta. (Jan/2022).		<br>
 * Factfulness: O hábito libertador de só ter opiniões em fatos. (Dez/2021).			<br>
