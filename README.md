@@ -12,10 +12,7 @@
 
 	* [TV Escola](https://bit.ly/37NEWpH)				<br>
 	* [Percursos Educativos](https://bit.ly/3m53Ut7)	<br>
-	* TV INES 											<br>
-	* TV INES - Aplicativo Primeira Mão 
 	<p>
-
 	
 * **Excel e inserido no Power Point / PDF.**
 	* [TV Escola](https://bit.ly/3AFoLHm)<br>
