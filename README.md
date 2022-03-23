@@ -60,7 +60,7 @@
 	* **Campeonato Brasileiro** Neste projeto, foram trabalhadas as tabelas entre 2003 a 2021.<br>
 	* [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
 
-#
+##
 ## Currículo
 
 ## Formação Acadêmica:
@@ -93,7 +93,7 @@ Desde 2016 trabalho efetivamente com análise de dados. <br>
 As informações são extraídas do Google Analytics, relacionados aos endereços descritos abaixo e outros dados são encaminhados por fornecedores externos.
 <p>
 	
-
+##
 ## Cursos em desenvolvimento.<p>
 ### Sigmoidal (https://sigmoidal.ai/).<p>
 
@@ -116,6 +116,7 @@ Atualmente estou matriculado e cursando Data Science.<br>
 * **Exemplos de projetos realizados**.<br>
    * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/3mgj0vP) <p>
 
+##
 ### Cursos | Formação Complementar:
 * **Arruda Consulting**
 	* Pentaho Data Integration (2022).											<br>
