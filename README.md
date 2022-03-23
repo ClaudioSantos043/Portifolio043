@@ -59,7 +59,7 @@
 
 * **Projetos Pessoais.** <br>
 	* **Campeonato Brasileiro** Neste projeto, foram trabalhadas as tabelas entre 2003 a 2021.
-	* [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
+		* [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
 
 ##
 ## Currículo
