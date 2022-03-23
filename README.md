@@ -205,13 +205,17 @@ Atualmente estou matriculado e cursando Data Science.<br>
 
 ### Clube do Livro - Estatística:
 Clube do livro foi elaborado pela professora Fernanda Maciel (https://home.proffernandamaciel.com.br/). <br>
-Neste semestre, teremos 6 reuniões para conversamos sobre os livros, são eles:
-* Como Mentir com Estatística (Jul/2021).
-* Estatística: O que é, para que serve e como funciona ? (Ago/2021).
-* Fora de Série - Outliers (Set/2021).
-* O Andar de do Bêbado: Como o acaso determina nossas vidas (Out/2021).
-* Algoritmos de Destruição em Massa (Nov/2021).
+Neste clube, nos reunimos uma vez por mês para discurtimos sobre o livro do mês, são eles:
+<p>
+* Data Science para Negócios: O que você precisa saber sobre mineração de dados e pensamento analítico de dados. (Mar/2022).
+* Storytelling com Dados: Um guia sobre visualizações de dados. (Fev/2022).
+* Freakonomics: O lado oculto e inesperado de tudo que nos afeta. (Jan/2022).
 * Factfulness: O hábito libertador de só ter opiniões em fatos. (Dez/2021).
+* Algoritmos de Destruição em Massa (Nov/2021).
+* O Andar de do Bêbado: Como o acaso determina nossas vidas (Out/2021).
+* Fora de Série - Outliers (Set/2021).
+* Estatística: O que é, para que serve e como funciona? (Ago/2021).
+* Como Mentir com Estatística (Jul/2021).
 
 
 
