@@ -31,7 +31,7 @@
    	* [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <br>
    	* [Projeto 02 - Analisando os Dados do Covid-19](https://bit.ly/3ndUdZX) <p>
 
- * Nos links, abaixo, os arquivos foram criados com a ferramenta ****Pandas Profiling**.<br>
+ * Nos links, abaixo, os arquivos foram criados com a ferramenta **Pandas Profiling**.<br>
    
    As informações são de um cadastro e foram trabalhadas em um arquivo Excel.<br>
    Arquivo Possui 452.730 linhas e 12 colunas.<br>
@@ -58,8 +58,8 @@
 			* Outros tratamentos de dados.
 
 * **Projetos Pessoais.**
-	* **Campeonato Brasileiro** Neste projeto, foram trabalhadas as tabelas entre 2003 a 2021.<br>
-	* [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
+	 **Campeonato Brasileiro** Neste projeto, foram trabalhadas as tabelas entre 2003 a 2021.<br>
+	 * [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
 
 ##
 ## Currículo
