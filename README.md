@@ -61,6 +61,8 @@
 	* [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
 
 
+## Currículo
+
 ## Formação Acadêmica:
 * **MBA** em  Garantia de Qualidade de Software pela Escola Politécnica UFRJ: (2013).					<br>
 * **MBA** em TV Digital, Radiodifusão e Novas Mídias de Comunicação Eletrônica pela UFF: (2011).		<br>
