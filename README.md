@@ -57,7 +57,7 @@
 			* Cálculos.
 			* Outros tratamentos de dados.
 
-* **Projetos Pessoais.**
+* **Projetos Pessoais.** <br>
 **Campeonato Brasileiro** Neste projeto, foram trabalhadas as tabelas entre 2003 a 2021.<br>
 	 * [Campeonato Brasileiro](https://bit.ly/3AfszQO)<br>
 
