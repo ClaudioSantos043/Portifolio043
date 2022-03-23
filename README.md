@@ -43,8 +43,8 @@
 
 * **FLAI (https://www.flai.com.br/dominando-data-science/).**
 
-	Atualmente estou matriculado e cursando Data Science.<br>
-* **Exemplos de projetos realizados**.<br>
+	Atualmente estou matriculado e cursando Data Science. Exemplos de projetos. <br>
+
    * Power BI: [Projeto 01 - Visualização de dados da covid em Brasília](https://bit.ly/3mgj0vP) <p>
 
 * **Arruda Consulting**
