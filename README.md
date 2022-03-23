@@ -25,8 +25,8 @@
 
 * **Curso Sigmoidal (https://sigmoidal.ai/).**
 
- 	Atualmente estou matriculado e cursando Python e Data Science na Prática.<br>
-    Exemplos de projetos realizados.<br>
+ 	Atualmente estou matriculado e cursando Python e Data Science na Prática. Exemplos de projetos. <br>
+    
    	* [Projeto 01 - Analisando os Dados do Airbnb](https://bit.ly/3xy9si2) <br>
    	* [Projeto 02 - Analisando os Dados do Covid-19](https://bit.ly/3ndUdZX) <p>
 
