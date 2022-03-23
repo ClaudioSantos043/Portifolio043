@@ -22,8 +22,9 @@
 	* [Percursos Educativos](https://bit.ly/3g8p9GO)<br>
 	* [TV INES](https://bit.ly/3jVJekK)<p>
 
-
-* **Curso Sigmoidal (https://sigmoidal.ai/).**
+##
+## Cursos em Desenvolvimento
+* **Sigmoidal (https://sigmoidal.ai/).**
 
  	Atualmente estou matriculado e cursando Python e Data Science na Prática. Exemplos de projetos. <br>
     
