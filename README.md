@@ -20,7 +20,7 @@
 	* [TV INES](https://bit.ly/3jVJekK)<p>
 
 ##
-## Cursos em Desenvolvimento
+## Projetos desenvolvidos nos cursos em desenvolvimento
 * **Sigmoidal (https://sigmoidal.ai/).**
 
  	Atualmente estou matriculado e cursando Python e Data Science na Prática. Exemplos de projetos. <br>
