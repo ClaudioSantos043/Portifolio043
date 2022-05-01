@@ -71,7 +71,7 @@
 
 ## Qualificação Profissional
 * Vivência na extração, análise e tratativa de dados, apontando desvios, consolidando relatórios gerenciais e planilhas de controle (Excel, Power BI e DAX). Levantamento de requisitos, execução de testes e modelagens processuais – construindo manuais e aplicando controles para alavancar performance e otimizar operações de sistemas financeiros, controle de custos e rotinas.<br>
-* Nos últimos meses (dez/2021), estudando a ferramenta Pentaho, para tratamento dos dados de diversas fontes de dados.<br>
+* Nos últimos meses, estudando a ferramenta Pentaho, para tratamento dos dados de diversas fontes de dados.<br>
 * Destacando conhecimentos em Análise de Dados; metodologias de gestão ágeis e bancos de dados (Sql Server, MySQL e MS Access).
 <p>
 
@@ -201,6 +201,7 @@ Atualmente estou matriculado e cursando Data Science.<br>
 	* 5 passos simples para criar cálculos complexos no Power BI: Jul/2020 – OnLine. 		<br>
     * Dashboards, Como Evoluir do Excel para o Power BI: Mar/2020 – OnLine. 				<br>
 * **KA Solution**
+	* SCRUM Overview: Abr/2022 - OnLine.
 	* Visão Geral do Power BI: Mar/2022 - OnLine.											<br>			
 * **MVPConf**
     * 2020: Dez/2020 – OnLine. 																<br>
