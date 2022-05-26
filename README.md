@@ -43,8 +43,8 @@
 	Atualmente estou matriculado e cursando Data Science. Exemplos de projetos. <br>
 
 	* **Power BI**
-   		* [Projeto 01 - Visualização de dados da covid em Brasília.](https://bit.ly/3mgj0vP) 		<p>
-   		* [Projeto 02 - Análise de Vendas de uma rede de supermercados.](https://bit.ly/3MR9CcK) 	<p>
+   		* [Projeto 01 - Visualização de dados da covid em Brasília.](https://bit.ly/3GlAD5J) 		<p>
+   		* [Projeto 02 - Análise de Vendas de uma rede de supermercados.](https://bit.ly/3LNArgy) 	<p>
    
 
 * **Arruda Consulting**
