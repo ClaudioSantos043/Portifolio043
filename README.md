@@ -79,6 +79,12 @@
 <p>
 
 ## Experiência Profissional
+**YDUQS. Período:** Mai/2022 | Atual. **Cargo:** Analista Comercial Pl.<br>
+Nesta empresa desenvolvo trabalho de análise de dados. Onde buscamos analisar as informações (obedecendo as regras de negócio) e trabalhar em busca do resultado.
+Utilizamos base de dados Oracle, através da ferramenta DBeaver (SQL), para tratamento de dados é utilizado Alteryx Designer.
+Após essas análises as informações são demonstradas na ferramenta Power BI.
+<p>
+
 **ACERP (ROQUETTE PINTO). Período:** Fev/2004 | Set/2021. **Cargo:** Analista de Desenvolvimento.<br>
 Condução de análises e tratativas de dados internos e externos; extraídos do Google Analytics. Levantamento de requisitos, condução de testes e consolidação de relatórios de controle – Excel; Power BI, DAX e Google Data Studio; apontando desvios, propondo planos de ação e adequações de processos; estruturando manuais de controle. Adoção de metodologias ágeis de gestão, participando de projetos de melhoria.<br>
 Desenvolvimento de soluções e aplicações de controle de custos e processos, adotando Visual Studio 2005 | Visual Basic 6. 
