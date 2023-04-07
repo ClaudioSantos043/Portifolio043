@@ -3,7 +3,6 @@
 <img src="banner06.png">
 </p>
 
-
 ## Projetos Desenvolvidos
 
 ## ACERP:
@@ -136,9 +135,8 @@ Atualmente estou matriculado e cursando Data Science.<br>
 		* Outros tratamentos de dados.
 
 * **Udemy**
-	* Spotfire Cloud (2022). 													<br>
 	* Pentaho Data integration - ETL Essencial (2021).
-		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
+	* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
 	* Aprendendo Microsoft SQL Server Integrations Services - SSIS (2021).
 		* Curso básico e leitura para conhecimento desta ferramenta. 			<br> 
 
